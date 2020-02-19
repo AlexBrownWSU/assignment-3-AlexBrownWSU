@@ -1,0 +1,8 @@
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.DataStore/bin/Debug/netstandard2.0/BlabberApp.DataStore.deps.json
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.DataStore/bin/Debug/netstandard2.0/BlabberApp.DataStore.dll
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.DataStore/bin/Debug/netstandard2.0/BlabberApp.DataStore.pdb
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.csprojAssemblyReference.cache
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.AssemblyInfoInputs.cache
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.AssemblyInfo.cs
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.dll
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.pdb

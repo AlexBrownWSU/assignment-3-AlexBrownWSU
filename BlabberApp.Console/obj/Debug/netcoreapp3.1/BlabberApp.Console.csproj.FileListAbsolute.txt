@@ -1,0 +1,10 @@
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Console/obj/Debug/netcoreapp3.1/BlabberApp.Console.AssemblyInfoInputs.cache
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Console/obj/Debug/netcoreapp3.1/BlabberApp.Console.AssemblyInfo.cs
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Console/bin/Debug/netcoreapp3.1/BlabberApp.Console
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Console/bin/Debug/netcoreapp3.1/BlabberApp.Console.deps.json
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Console/bin/Debug/netcoreapp3.1/BlabberApp.Console.runtimeconfig.json
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Console/bin/Debug/netcoreapp3.1/BlabberApp.Console.runtimeconfig.dev.json
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Console/bin/Debug/netcoreapp3.1/BlabberApp.Console.dll
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Console/bin/Debug/netcoreapp3.1/BlabberApp.Console.pdb
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Console/obj/Debug/netcoreapp3.1/BlabberApp.Console.dll
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Console/obj/Debug/netcoreapp3.1/BlabberApp.Console.pdb

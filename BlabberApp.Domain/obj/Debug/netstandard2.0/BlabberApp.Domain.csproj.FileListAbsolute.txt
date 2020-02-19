@@ -1,0 +1,8 @@
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Domain/bin/Debug/netstandard2.0/BlabberApp.Domain.deps.json
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Domain/bin/Debug/netstandard2.0/BlabberApp.Domain.dll
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Domain/bin/Debug/netstandard2.0/BlabberApp.Domain.pdb
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Domain/obj/Debug/netstandard2.0/BlabberApp.Domain.AssemblyInfoInputs.cache
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Domain/obj/Debug/netstandard2.0/BlabberApp.Domain.AssemblyInfo.cs
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Domain/obj/Debug/netstandard2.0/BlabberApp.Domain.dll
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Domain/obj/Debug/netstandard2.0/BlabberApp.Domain.pdb
+/home/donstringham/assignment-01-02-donbstringham/BlabberApp/BlabberApp.Domain/obj/Debug/netstandard2.0/BlabberApp.Domain.csprojAssemblyReference.cache
